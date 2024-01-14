@@ -9,6 +9,8 @@
 [![Static Badge](https://img.shields.io/badge/mykolazahorulko.work%40gmail.com-EF4136?style=flat&logo=gmail&logoColor=white&labelColor=EF4136&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DGTvVlcSMVxpFHtnkdNZpTzTmsbQvtWrQJxfPdWVnwmRfdscXZxXVpqFrGKPvLzbgNGxpjnKxMzdGb)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxpFHtnkdNZpTzTmsbQvtWrQJxfPdWVnwmRfdscXZxXVpqFrGKPvLzbgNGxpjnKxMzdGb)
 [![Static Badge](https://img.shields.io/badge/Mykola%20Zahorulko-34A4DB?style=flat&logo=telegram&logoColor=white&labelColor=34A4DB&link=https%3A%2F%2Ft.me%2Fmind_zeal09)](https://t.me/mind_zeal09)
 
+#### 👨🏻‍💻 Top Technologies:
+
 - **React** 🚀
 - **Redux** 🔄
 - **JavaScript** 🌐
@@ -16,8 +18,10 @@
 - **HTML** 📄
 - **SCSS** 🎨
 - **Yarn** 🧶
+  
+</br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MykolaZahorulko&layout=compact)](https://github.com/MykolaZahorulko/github-readme-stats)
 
 
 
