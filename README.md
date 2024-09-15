@@ -1,4 +1,4 @@
-## Hi, I'm Bohdan 👋
+## Hi, I'm Mykola 👋
 
 ### I'm Bohdan Zahorulko a Frontend Developer with more than 2 years of experience. Experienced both in Frontend and Design technologies.
 
@@ -11,13 +11,14 @@
 
 #### 👨🏻‍💻 Top Technologies:
 
-- **React** 🚀
-- **Redux** 🔄
-- **JavaScript** 🌐
-- **Vite** ⚡
+- **React/Next.js** 🚀
+- **RTK/RTK Query** 🔄
+- **JavaScript/Typescript** 🌐
+- **Vite/Webpack** ⚡
 - **HTML** 📄
-- **SCSS** 🎨
-- **Yarn** 🧶
+- **CSS/SCSS** 🎨
+- **Yarn/NPM/PNPM** 🧶
+- **Node.js/Docker** 💚
   
 </br>
 
