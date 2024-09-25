@@ -1,6 +1,6 @@
 ## Hi, I'm Mykola 👋
 
-### I'm Bohdan Zahorulko a Frontend Developer with more than 2 years of experience. Experienced both in Frontend and Design technologies.
+### I'm Mykola Zahorulko a Frontend Developer with more than 2 years of experience. Experienced both in Frontend and Design technologies.
 
 
 #### 📫 Reach me out!
